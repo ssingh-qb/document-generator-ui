@@ -1,0 +1,35 @@
+{
+  "urlQueryString": "",
+  "repositoryId": "21",
+  "prodPrefix": "Prod",
+  "devPrefix": "Dev",
+  "dbid": "btybjakxj",
+  "devDbid": "",
+  "devAndProdQuickBaseApplications": "",
+  "realm": "ps-demo",
+  "filesConf": [
+    {
+      "filename": "main.css",
+      "path": "./"
+    },
+    {
+      "filename": "main.js",
+      "path": "./"
+    },
+    {
+      "filename": "main1.js",
+      "path": "./"
+    },
+    {
+      "filename": "index.html",
+      "path": "./",
+      "dependencies": [
+        0,
+        1,
+        2
+      ],
+      "isIndexFile": true
+    }
+  ],
+  "launchDevPageId": 37
+}
